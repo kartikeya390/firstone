@@ -1,3 +1,7 @@
 print(10)
 print(20)
+<<<<<<< HEAD
 print(40)
+=======
+print30
+>>>>>>> 289d404c6c221c996c58f4b7d279726d9863bf1d
